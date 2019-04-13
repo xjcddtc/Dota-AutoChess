@@ -162,24 +162,24 @@ AutoChessHelper.DotaChessXYZ = JSON.Decode('[{"hero":"npc_dota_hero_axe","cost":
 AutoChessHelper.Builds = 
 {
     {
-        ["url"]         = "https://dotachess.xyz/?build=17-3,20-13,24-0,26-52,27-37,28-18,29-23,30-36,31-38&enemy",
-        ["description"] = "x9 WARRIORS"
+        ["url"]         = "https://dotachess.xyz/?build=20-46,24-33,25-15,26-5,27-28,29-20,30-53,31-41&enemy",
+        ["description"] = "6刺"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=12-25,17-34,19-19,21-10,23-29,24-15,26-54,28-36,30-45&enemy",
-        ["description"] = "Deamons + knights"
+        ["url"]         = "https://dotachess.xyz/?build=8-29,9-8,10-19,16-21,17-38,18-40,24-7,25-17&enemy",
+        ["description"] = "巨魔骑"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=16-3,17-23,18-22,19-20,20-40,24-1,25-46,26-24,27-30,28-50&enemy",
-        ["description"] = "Druids + BEASTs"
+        ["url"]         = "https://dotachess.xyz/?build=19-44,20-37,25-3,26-18,27-38,29-36,30-23&enemy",
+        ["description"] = "精英战"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=17-8,18-12,19-0,20-13,21-38,26-7,27-43,28-17&enemy",
-        ["description"] = "Troll + orc + shamans"
+        ["url"]         = "https://dotachess.xyz/?build=16-22,17-20,18-46,24-27,25-21,26-1,27-10,31-41&enemy",
+        ["description"] = "奶德"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=8-10,9-45,10-20,16-22,17-46,18-41,24-1,25-33,26-16,31-28&enemy",
-        ["description"] = "Elf + Druid + Dragons"
+        ["url"]         = "https://dotachess.xyz/?build=8-36,9-23,10-37,16-46,17-44,18-40,24-27,25-4,26-18&enemy",
+        ["description"] = "战猎"
     },
     {
         ["url"]         = "https://dotachess.xyz/?build=16-0,17-13,18-3,19-23,20-36,21-38,24-43,25-7,26-8,27-17&enemy",
