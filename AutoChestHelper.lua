@@ -198,7 +198,7 @@ AutoChessHelper.Builds =
         ["description"] = "亡灵猎"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=9-36,10-13,11-12,12-0,13-49,18-4,19-43,20-27,22-44,24-32&enemy",
+        ["url"]         = "https://dotachess.xyz/?build=24-2,25-11,26-16,27-26,28-35,29-39,30-48&enemy",
         ["description"] = "六法"
     }
 }
