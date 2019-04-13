@@ -163,7 +163,7 @@ AutoChessHelper.Builds =
 {
     {
         ["url"]         = "https://dotachess.xyz/?build=20-46,24-33,25-15,26-5,27-28,29-20,30-53,31-41&enemy",
-        ["description"] = "6刺"
+        ["description"] = "六刺"
     },
     {
         ["url"]         = "https://dotachess.xyz/?build=8-29,9-8,10-19,16-21,17-38,18-40,24-7,25-17&enemy",
@@ -182,52 +182,24 @@ AutoChessHelper.Builds =
         ["description"] = "战猎"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=16-0,17-13,18-3,19-23,20-36,21-38,24-43,25-7,26-8,27-17&enemy",
-        ["description"] = "Warriors + Trolls"
+        ["url"]         = "https://dotachess.xyz/?build=8-25,9-29,10-19,16-21,17-16,18-8,24-45,25-33&enemy",
+        ["description"] = "六骑三龙"
     },
     {
-        ["url"]         = "https://dotachess.xyz/?build=16-8,17-19,18-25,19-29,20-45,24-21,25-17,26-7,27-38&enemy",
-        ["description"] = "knights + Trolls"
+        ["url"]         = "https://dotachess.xyz/?build=2-37,3-43,8-12,9-13,10-0,16-34,17-26,24-39,25-11&enemy",
+        ["description"] = "兽人法"
     },
     {
         ["url"]         = "https://dotachess.xyz/?build=16-5,17-6,18-14,19-42,24-9,25-51,26-47&enemy",
-        ["description"] = "Goblin + Mech"
+        ["description"] = "地精流"
     },
     {
         ["url"]         = "https://dotachess.xyz/?build=16-12,17-29,18-40,19-49,24-32,25-27,26-4,27-44,28-48&enemy",
-        ["description"] = "Hunters + UNDEAD"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=16-5,17-30,18-41,19-40,20-29,24-15,25-28,26-31,27-4,28-48&enemy",
-        ["description"] = "Assasins + UNDEAD"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=8-45,9-33,10-50,16-2,17-48,18-16,24-26,25-39,26-35&enemy",
-        ["description"] = "Mage + Dragons"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=0-34,2-39,4-26,9-47,11-6,16-42,18-48,20-14,25-50,27-9&enemy",
-        ["description"] = "Mech + Mage + Warlocks"
+        ["description"] = "亡灵猎"
     },
     {
         ["url"]         = "https://dotachess.xyz/?build=9-36,10-13,11-12,12-0,13-49,18-4,19-43,20-27,22-44,24-32&enemy",
-        ["description"] = "Orc + Hunters"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=10-28,12-30,19-24,24-41,26-34,27-50,28-31,30-53,31-33&enemy",
-        ["description"] = "ASSASSIN + WARLOCK"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=17-25,18-19,19-12,20-42,21-49,25-21,26-4,27-40,28-17,29-8&enemy",
-        ["description"] = "KNIGHT + HUNTER + WARLOCK (V1)"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=17-25,18-29,19-12,20-42,21-49,25-21,26-4,27-34,28-17,29-8&enemy",
-        ["description"] = "KNIGHT + HUNTER + WARLOCK (V2)"
-    },
-    {
-        ["url"]         = "https://dotachess.xyz/?build=9-14,11-42,13-51,18-6,20-26,22-9,24-5,26-35,27-11,29-47&enemy",
-        ["description"] = "GOBLIN + MAGE"
+        ["description"] = "六法"
     }
 }
 
